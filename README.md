@@ -149,26 +149,6 @@ land-cover-classification/
     └── scaler.pkl          # Feature scaler (optional)
 ```
 
-## 🛠️ Pushing to GitHub
-
-1. Initialize git repository:
-```bash
-git init
-```
-
-2. Add your files:
-```bash
-git add ml.ipynb README.md
-git commit -m "Initial commit: Land cover classification project"
-```
-
-3. Create a new repository on GitHub, then:
-```bash
-git remote add origin https://github.com/yourusername/land-cover-classification.git
-git branch -M main
-git push -u origin main
-```
-
 ## 🎓 Technical Details
 
 ### Feature Extraction Pipeline
