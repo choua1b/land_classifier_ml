@@ -172,10 +172,6 @@ land-cover-classification/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🙏 Acknowledgments
 
 - DeepGlobe Challenge organizers for the dataset
@@ -184,7 +180,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue on GitHub.
+For questions or feedback, please open an issue on GitHub or contact "chouaibjbel6@gmail.com"
 
 ---
 
